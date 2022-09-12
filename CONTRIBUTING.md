@@ -1,4 +1,6 @@
-# Contributing to Learn.co Curriculum
+# By Chrisphine 
+
+# Contributing to Learn.co Curriculum by chrisphine keta
 
 We're really excited that you're about to contribute to the
 [open curriculum](https://learn.co/content-license) on
